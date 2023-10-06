@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZanziPanziBY
+- 👋 Hi, I am @ZanziPanziBY
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on interesting projects
